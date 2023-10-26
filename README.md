@@ -2,7 +2,7 @@
 
 Welcome to the NLP Code Repository! This repository contains a collection of NLP-related projects and code, including the following:
 
-## 1. Document AI
+## 1. [Document AI](document_ai/)
 
 - Description: This section of the repository contains code and resources related to Document AI, a field of NLP focused on document understanding, extraction, and processing.
 - Directory: [document-ai/](document_ai/)
