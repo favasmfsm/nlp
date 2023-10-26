@@ -1,0 +1,33 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+*.env
+
+# Log files
+*.log
+
+# User-specific files
+.idea/
+.vscode/
+.DS_Store
+
+# Data and output files (customize as needed)
+data/
+output/
+
+# Configuration files
+*.config
+
+# Jupyter Notebook autosave and backup files
+*.nbconvert.ipynb
+*~.ipynb
+*.ipynb_checkpoints/
