@@ -1,0 +1,12 @@
+accelerate
+bitsandbytes  
+chromadb
+einops
+langchain
+openai
+pypdf
+sentence_transformers
+tiktoken
+torch
+torchvision
+transformers

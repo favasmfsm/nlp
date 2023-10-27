@@ -31,3 +31,5 @@ output/
 *.nbconvert.ipynb
 *~.ipynb
 *.ipynb_checkpoints/
+
+*.egg-info
